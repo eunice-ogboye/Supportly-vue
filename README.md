@@ -30,7 +30,7 @@ It allows users to register, log in, view events, book tickets, and manage booki
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/eunice-ogboye/Supportly.git
+git clone https://github.com/eunice-ogboye/Supportly-vue.git
 cd supportly-vue
 
 # 2. Install dependencies
