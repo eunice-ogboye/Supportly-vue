@@ -15,7 +15,7 @@
         <h3>{{ stats.open }}</h3>
         <p>Open Tickets</p>
       </div>
-      <div class="stat-card ongoing">
+      <div class="stat-card total">
         <h3>{{ stats.ongoing }}</h3>
         <p>Ongoing Tickets</p>
       </div>
